@@ -10,8 +10,13 @@ Installation
 
 Usage
 -----
+Html Code:
 
-    $('mainWrap').SinglePage({
+    <div id="mainWrap"></div>
+
+JavaScript:
+
+    $('#mainWrap').SinglePage({
         pages : [{'hash':'about', 'url':'about.html'}],
         defaultPage : null
     });
