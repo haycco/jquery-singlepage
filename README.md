@@ -1,8 +1,6 @@
 jQuery Single Page Plugin
-
-
+===================
 Single Page - A jquery plugin for creating single page web sites.
-=============
 
 
 Installation
